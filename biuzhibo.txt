@@ -11,7 +11,6 @@ CCTV-1,http://117.148.179.157/PLTV/88888888/224/3221233151/index.m3u8
 吳京,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
 林正英,http://121.51.249.48/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 金牌综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8
-陈翔六点半,http://121.51.249.48/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus.m3u8
 ##
 
 ##📻｜综艺##
@@ -21,8 +20,6 @@ CCTV-1,http://117.148.179.157/PLTV/88888888/224/3221233151/index.m3u8
 经典小品,http://zzy789.xyz/douyu1.php?id=9067836
 相声有新人,http://bp-caster.bestv.com.cn/512/1/video.m3u8
 小品,http://txtest-xp2p.p2p.huya.com/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
-郭德纲于谦1,http://teyondb.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb10.php?id=5854051
-郭德纲于谦2,http://teyondb.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb10.php?id=308438
 郭德纲于谦+传统相声专场,https://65537ff319007c0310e1b87d7061588a.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_421447299_500.m3u8
 金牌综艺,http://39.135.55.105:6610/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
 超级综艺,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/1.m3u8
@@ -110,13 +107,11 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台[1920*1080],http://radius.8866.org:880/hls/80/index.m3u8
-耀才財經台[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 点掌财经[1280*712],http://cclive2.aniu.tv/live/anzb.m3u8
 无线新闻[1920*1080],http://radius.8866.org:880/hls/82/index.m3u8
 无线财经[1920*1080],http://radius.8866.org:880/hls/83/index.m3u8
 明珠台[1920*1080],http://radius.8866.org:880/hls/84/index.m3u8
 J2[1920*1080],http://120.84.96.29:808/hls/86/index.m3u8
-中國環球電視,http://live.cgtn.com/500/prog_index.m3u8
 亚洲ATV,https://juyunlive.juyun.tv/live/24950198.m3u8
 香港衛視文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 明珠台,http://gslb.gcable.cn:8070/live/1351_1500.m3u8?t=alD6MviGLGyFEPW5ON4LCA==&u=18061055756&p=1&pid=&cid=602&d=32eacc452603e2b1&sid=SkuRYfZAZUeCKIC3EsAEYQ==&r=20220506155309&e=20220506215314&nc=xjdByVwdfcKd&a=1&v=2
@@ -128,8 +123,6 @@ J2[1920*1080],http://120.84.96.29:808/hls/86/index.m3u8
 RHK32,http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 香港电台,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8
-ViuTV,http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
